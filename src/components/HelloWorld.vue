@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>vue真是个好框架啊</p>
-    <h2>Essential Links</h2>
+  
     <ul>
       <li>
         <a

@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-   <p>vuestudy提交111111</P>
+   <p>vuestudy提交   111111</P>
     <ul>
       <li>
         <a

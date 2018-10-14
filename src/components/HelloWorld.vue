@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>vue真是个好框架啊</p>
-  <p>这只是一次测试</p>
+  
   <p>有一次提交</p>
     <ul>
       <li>

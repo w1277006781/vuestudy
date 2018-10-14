@@ -1,9 +1,13 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-   <p>vuestudy鎻愪氦 22222</P>
- <p>gittest鎻愪氦</p>
+  <p>vuestudy提交 22222</P><<<<<<< .mine
+ <p>gittest提交</p>
    <ul>
+=======
+    <ul>
+
+>>>>>>> .theirs
       <li>
         <a
           href="https://vuejs.org"

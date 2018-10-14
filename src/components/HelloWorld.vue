@@ -1,8 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-   <p>gittest�ύ</p>
-    <ul>
+   <p>vuestudy提交</P>
+ <p>gittest提交</p>
+   <ul>
       <li>
         <a
           href="https://vuejs.org"
